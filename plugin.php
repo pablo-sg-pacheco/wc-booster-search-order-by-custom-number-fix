@@ -4,8 +4,7 @@
  * Plugin Name: Woocommerce Booster - Search order by custom number (FIX)
  * Description: Fixes the problem of searching an order by custom number on admin using the plugin <a href="http://booster.io/">"Woocommerce Booster"</a>
  * Version:     1.0.0
- * Author:      Origgami
- * Author URI:  http://origgami.com.br
+ * Author:      Pablo Pacheco Karzin 
  * Depends:     CMB2
  * License:     GPLv2
  * Text Domain: wc-booster-search-order-by-custom-number
